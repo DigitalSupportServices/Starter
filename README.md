@@ -42,3 +42,7 @@ Using this you could create checklists such as:
 - [ ] Risk Assessment
 
       
+---
+
+
+[![CI](https://github.com/DigitalSupportServices/Starter/actions/workflows/blank.yml/badge.svg?branch=main)](https://github.com/DigitalSupportServices/Starter/actions/workflows/blank.yml)
