@@ -1,6 +1,11 @@
 # Network Architecture Design
 As you work through the various elements it is important to have structure in your workflow.
 
+
+
+
+
+---
 An example of a design document structure is presented below:
 1. Introduction
 2. Requirements for the Design
@@ -25,3 +30,15 @@ An example of a design document structure is presented below:
     * Prototype Results
     * Recommendations
 7. Implementation Plan
+
+---
+
+Using this you could create checklists such as:
+
+- [ ] Network Analysis
+- [ ] Constraints
+- [ ] Assumptions
+- [ ] Drawbacks
+- [ ] Risk Assessment
+
+      
