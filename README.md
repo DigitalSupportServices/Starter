@@ -41,8 +41,26 @@ Using this you could create checklists such as:
 - [ ] Drawbacks
 - [ ] Risk Assessment
 
-      
+
 ---
+
+##Checklist
+
+__Technologies Implemented__
+- [ ] Hierarchical Network Design.
+- [ ] Connecting Networking devices with Correct cabling.
+- [ ] Creating VLANs and assigning ports VLAN numbers.
+- [ ] Subnetting and IP Addressing.
+- [ ] Configuring Inter-VLAN  Routing (Router on a stick).
+- [ ] Configuring DHCP  Server (Router as the DHCP Server).
+- [ ] Configuring SSH for secure Remote access.
+- [ ] Configuring RIPv2 as the  routing protocol.
+- [ ] Configuring switchport security or Port-Security on the switches.
+- [ ] Host Device Configurations.
+- [ ] Test and Verifying Network Communication.
+
+Creating a network topology using  Cisco Packet Tracer Packet Tracer.
+
 
 
 [![CI](https://github.com/DigitalSupportServices/Starter/actions/workflows/blank.yml/badge.svg?branch=main)](https://github.com/DigitalSupportServices/Starter/actions/workflows/blank.yml)
